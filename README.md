@@ -11,6 +11,9 @@ Requirements: .NET Framework v4.0 or later.
 
 This Project is built on Windows Forms. Tasks Parallel Library is being used to implement asynchronous behavior.
 
+![bg](https://user-images.githubusercontent.com/45973605/80521752-3aa0c000-8994-11ea-8b54-19acde12b85f.png)
+
 Understanding the code of this game is easy, even for new programmers.
 
 I Hope you will find this repository valueable for you.
+
