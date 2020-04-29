@@ -1,5 +1,7 @@
 <h3>Bouncing Game</h3>
 
+(This project was built and tested in .NET Framework 4.6.1)
+
 This is a bundle of two games: 
 
 <ul>
