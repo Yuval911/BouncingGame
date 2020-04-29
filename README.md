@@ -15,5 +15,5 @@ This Project is built on Windows Forms (C#). Tasks Parallel Library is being use
 
 Understanding the code of this game is easy, even for new programmers.
 
-I Hope you will find this repository valueable for you.
+I Hope you will find this repository valuable for you.
 
