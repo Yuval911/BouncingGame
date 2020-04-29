@@ -7,9 +7,7 @@ This is a bundle of two games:
   <li><b>Bouncing Beetles:</b> With beetles bouncing on the screen, the goal of this game is to crush all the beetles before they reproduce. </li>
 </ul>
 
-Requirements: .NET Framework v4.0 or later.
-
-This Project is built on Windows Forms. Tasks Parallel Library is being used to implement asynchronous behavior.
+This Project is built on Windows Forms (C#). Tasks Parallel Library is being used to implement asynchronous behavior.
 
 ![bg](https://user-images.githubusercontent.com/45973605/80521752-3aa0c000-8994-11ea-8b54-19acde12b85f.png)
 
